@@ -3,19 +3,19 @@ Designed for productivity enthusiasts, developers, and anyone looking to superch
 
 Smart Connect makes it easy to automate tasks, retrieve context for AI, and connect different parts of your digital life without uploading your data to the cloud.
 
-## Features
-- **Seamless Integrations**: Connect with a wide range of APIs and services to automate tasks, fetch data, and more, all from one place.
-- **Custom Workflows**: Create and customize your own workflows to match your unique needs, making your work more efficient and organized.
-- **Easy to Use**: With a straightforward setup and intuitive interface, getting started with Smart Connect is a breeze.
-- **Open Source**: Join our community of contributors to add new features, fix bugs, or improve documentation.
+## Smart Connections Obsidian plugin
+Users of Smart Connections can use Smart Connect to improve the performance of local embeddings:
+1. Download the installer for your OS
+2. Open Smart Connect
+3. Restart the Smart Connections plugin or use the "Connect to Smart Connect" button in the settings
 
 ## Getting Started with Smart Connect
 - [Getting Started Screencast](https://www.loom.com/share/3f1f96ec303a4d20a734e274bcd2f16d)
+### Install
 
-### installers
-- windows
-- mac
-- linux
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Windows](https://github.com/brianpetro/smart-connect/releases/latest/download/Smart-Connect-Setup-win.exe) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Mac](https://github.com/brianpetro/smart-connect/releases/latest/download/Smart-Connect-Setup-mac.dmg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linux](https://github.com/brianpetro/smart-connect/releases/latest/download/Smart-Connect-Setup-linux-amd64.deb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ### Setup
 - [ ] DO screenshot & description for each setting
 ##### required
