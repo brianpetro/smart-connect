@@ -9,6 +9,8 @@ Users of Smart Connections can use Smart Connect to improve the performance of l
 2. Open Smart Connect
 3. Restart the Smart Connections plugin or use the "Connect to Smart Connect" button in the settings
 
+Watch this video to see how it works: [Boosting Embedding Performance with Smart Connect](https://www.youtube.com/watch?v=tGZ6J63UZmw)
+
 ## Getting Started with Smart Connect
 - [Getting Started Screencast](https://www.loom.com/share/3f1f96ec303a4d20a734e274bcd2f16d)
 ### Install
