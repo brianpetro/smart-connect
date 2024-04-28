@@ -60,6 +60,12 @@ Watch this video to see how it works: [Boosting Embedding Performance with Smart
 ## [Smart Connect - Obsidian GPT](https://chat.openai.com/g/g-9Xb1mRJYl-smart-connect-obsidian)
 ### Signing in
 - requires your `email` and `license key`
+
+## Creating Custom GPTs
+- Videos
+	- [Getting Started with Custom Smart Connect GPTs](https://www.youtube.com/watch?v=WOXGp65qTfM)
+	- [Building a Smart Connect Transcribe Custom GPT](https://youtu.be/j-gTQmePzt4?si=O0_ykq3kXJy3aTj2)
+
 ## FAQs
 
 ## Troubleshooting
