@@ -1,3 +1,6 @@
+> [!NOTE]
+> Documentation site coming soon at [docs.smartconnections.app](https://docs.smartconnections.app).
+
 # Smart Connect
 Created to connect your notes to ChatGPT *without* uploading all of your data to the cloud!
 
