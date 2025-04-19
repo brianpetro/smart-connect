@@ -23,8 +23,11 @@ Watch this video to see how it works: [Boosting Embedding Performance with Smart
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### Setup
-- [Getting Started Screencast](https://www.loom.com/share/3f1f96ec303a4d20a734e274bcd2f16d)
-- [Getting Started with Smart Connections and Smart Connect Software](https://youtu.be/cgW7BpXURUQ)
+- Getting Started videos
+	- https://youtu.be/r_vgw4f9iGY
+	- https://youtu.be/SI5l_rwgF60
+- LIVE setup
+	- https://youtu.be/y509JRs6pZE
 ### How to use
 When Smart Connect is running and connected then Smart Actions can be used from any device.
 ## Smart Actions
@@ -57,7 +60,7 @@ No, you do not have to use the Official service to use Smart Connect. See [this 
 Note: This works for Custom GPTs only. Official GPTs like [Smart Connect — Obsidian](https://chatgpt.com/g/g-9Xb1mRJYl-smart-connect-obsidian) do require the [Official service](https://smartconnections.app/smart-connect/).
 ##### Does Smart Connect require a ChatGPT Plus subscription?
 No, a ChatGPT Plus subscription is not required. See [this video](https://youtu.be/09wPTPoMuGE) to learn more.
-##### Can I create my own Smart Actions?\
+##### Can I create my own Smart Actions?
 Yes, custom Smart Actions can be created for use in your own Custom GPTs via Smart Connect.
 ##### Can I edit the prompts for the Smart Actions?
 Yes, similar to custom actions, Smart Actions with edited prompts can be used in your own Custom GPTs.
