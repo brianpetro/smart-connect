@@ -34,6 +34,23 @@ Custom Actions enable developers (or anyone that can produce a JavaScript functi
 See [this sample](https://github.com/brianpetro/Sample-Smart-Action) (more documentation coming soon!)
 *Only use this feature to install your own custom actions.*
 
+### Importing MCP servers from Claude Code instructions (v2.1+)
+Use Claude Code's MCP configuration blocks to quickly bring external tools into Smart Connect:
+1. Copy the `mcp` configuration from Claude Code.
+2. In SC App's Env window, click **Import MCP actions**.
+3. Map the fields:
+	 - `name` → Server name
+	 - `transport` → Transport type dropdown
+	 - `url` or `command` → URL/command input
+4. Confirm to import and persist the server.
+
+```mermaid
+flowchart TD
+	A[Claude Code MCP config] --> B[Map fields to SC App form]
+	B --> C[Import actions]
+	C --> D[Actions available in Smart Connect]
+```
+
 ## [Smart Connect - Obsidian GPT](https://chatgpt.com/g/g-9Xb1mRJYl-smart-connect-obsidian)
 ### Signing in
 - requires your `email` and `license key`
