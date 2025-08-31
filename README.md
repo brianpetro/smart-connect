@@ -39,9 +39,9 @@ Use Claude Code's MCP configuration blocks to quickly bring external tools into 
 1. Copy the `mcp` configuration from Claude Code.
 2. In SC App's Env window, click **Import MCP actions**.
 3. Map the fields:
-				 - `name` → Server name
-				 - `transport` → Transport type dropdown
-				 - `url` or `command` → URL/command input
+	- `name` → Server name
+	- `transport` → Transport type dropdown
+	- `url` or `command` → URL/command input
 4. Confirm to import and persist the server.
 
 > [!WARNING]
