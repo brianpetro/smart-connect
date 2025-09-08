@@ -9,7 +9,7 @@
 
 Designed for Obsidian users, developers, and anyone who wants ChatGPT to work with local notes, files, and tools without uploading everything to a cloud.
 
-**Who is this for**  
+**Who this is for**  
 You want ChatGPT to actually use your files and tools. You value privacy and control. You prefer a simple setup that shows what is happening.
 
 ## Install
@@ -97,17 +97,13 @@ When you want a custom system prompt or your own action set.
 
 ## Smart Environment
 
-**When** AI tools pull you into cloud silos and hidden data flows.  
-**How** a local Smart Environment defines where AI can act, with settings you can read. Pick a folder, toggle Obsidian vault on if applicable, start the environment.  
-**Result** Local embeddings by default so ChatGPT can use semantic search without sending all of your files to the cloud.
+Define where AI can operate and keep it local. Pick a folder, optionally toggle Obsidian vault, start the environment. Local embeddings are on by default so ChatGPT can use semantic search without sending all of your files to the cloud.
 
 ![Smart Environment settings](https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20settings%20tab%20annotated-2025-09-08.png)
 
 ## Core actions
 
-**When** you need useful actions and cannot install MCP servers right now.  
-**How** Smart Connect ships with core actions designed to enable essential interactions between ChatGPT and your local Smart Environment.  
-**Result** Create notes and use embedding retrieval right away. Your GPT can create, read, and update notes and call imported tools.
+Get useful actions even before you import any MCP servers. The app ships with core actions so a GPT can create, read, and update notes and use embedding retrieval right away. Imported MCP tools appear as additional Smart Actions you can toggle.
 
 Examples:
 
@@ -117,17 +113,13 @@ Examples:
 
 ## Easy setup with Official service
 
-**When** setup friction kills momentum.  
-**How** Official service provides an easy connection plus access to the Official GPTs so you can get started in minutes.  
-**Result** Sign in once in **Smart Connect -> Connection**, open an Official GPT, and start calling actions.
+Skip friction. Sign in once in **Smart Connect -> Connection**, open an Official GPT, and start calling actions in minutes.
 
 ![Connection settings annotated](https://smartconnections.app/assets/annotated/SC%20App%20-%20Manager%20win%20Connection%20settings%20tab%20annotated-2025-09-08.png)
 
 ## Obsidian integration
 
-**When** ChatGPT cannot see your live notes.  
-**How** toggle the Obsidian vault switch in Smart Environment settings.  
-**Result** use the Notes GPTs to retrieve notes. Includes deep integration like rendering dataviews.  
+Keep ChatGPT aligned with your live notes. Toggle the Obsidian vault switch in Smart Environment settings, then use the Notes GPTs to retrieve notes. Deep integration includes rendering dataviews.  
 - _Note: bases rendering coming soon._
 
 ## FAQs
