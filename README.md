@@ -14,19 +14,16 @@ Designed for Obsidian users, developers, and anyone who wants ChatGPT to work wi
 <details open> <summary>**TLDR** simple 3 step plan</summary> <ul> <li>Install Smart Connect using the links above.</li> <li>Start a Smart Environment and sign in when prompted to enable Official GPTs.</li> <li>Chat in your Official or Custom GPT and call Smart Actions on your machine.</li> </ul> </details>
 
 ## Getting started
+Create and start an environment, sign in to enable Official service, auto setup a Custom GPT or copy the local API key for manual setup, and import MCP servers to bring external tools into GPTs.
 [Open the full slideshow →](https://smartconnections.app/story/smart-connect-getting-started/)
 
-<details> <summary>**What you will see**</summary> <p>Create and start an environment, sign in to enable Official service, auto setup a Custom GPT or copy the local API key for manual setup, and import MCP servers to bring external tools into GPTs.</p> </details>
-
 ## How it works
-
-<details open> <summary>**Plain language**</summary> <p>Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs.</p> </details>
+Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs.
 
 - Local first by default
 - No bulk upload of your vault or files
 - Approve once then chat normally
 - Readable logs for every call
-    
 
 ## Do more on day one
 - Use an Official GPT to work with notes and files without building a Custom GPT
@@ -42,17 +39,18 @@ Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be
 - Toggle the server on to import tools
     
 
-<p> <a href="https://www.loom.com/share/99b8454bcd5e4be4932115fcb903a5ef" target="_external">Watch the pre-release preview</a> from a recent <a href="https://luma.com/calendar/cal-ZJtdnzAdURyouM7" target="_external">Community Lean Coffee</a> meeting. </p> <p> <img src="https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20MCP%20server%20tabs%20annotated-2025-09-07.png" alt="Import MCP server tools" width="720"/> </p> <details> <summary>**What this unlocks**</summary> <p>Universal chat flows that call tools like browser automation, file utilities, or app connectors, all from GPTs. There is no search or fetch gate inside Smart Connect. You choose which tools are on.</p> </details>
+<p> <a href="https://www.loom.com/share/99b8454bcd5e4be4932115fcb903a5ef" target="_external">Watch the pre-release preview</a> from a recent <a href="https://luma.com/calendar/cal-ZJtdnzAdURyouM7" target="_external">Community Lean Coffee</a> meeting. </p> <p> <img src="https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20MCP%20server%20tabs%20annotated-2025-09-07.png" alt="Import MCP server tools" width="720"/> </p> 
+**What this unlocks**
+Universal chat flows that call tools like browser automation, file utilities, or app connectors, all from GPTs. There is no search or fetch gate inside Smart Connect. You choose which tools are on.
 
-## Official GPTs
-**Smart Connect - Obsidian GPT**  
+## Official service
 Use the Official service for a no code path that works with your vault and Smart Actions.
 - Sign in with your email and connection key in <kbd>Manager</kbd> → <kbd>Connection</kbd>
 - Official GPT calls route through the secure service
 - No need to copy a local API key for Official GPTs
-    
 
-<details> <summary>**Do I have to pay**</summary> <p>No. You can use Smart Connect without the Official service by hosting your own connection server and creating your own Custom GPTs. The Official service exists to make setup easier and to support the project.</p> </details>
+**Do I have to pay**
+No. You can use Smart Connect without the Official service by hosting your own connection server and creating your own Custom GPTs. The Official service exists to make setup easier and to support the project.
 
 ## Custom GPTs
 When you want a custom system prompt or your own action set.
@@ -78,7 +76,6 @@ When you want a custom system prompt or your own action set.
 - Smart Connect ships with core actions designed to enable essential interactions between ChatGPT and your local Smart Environment.
 - Create notes and use embedding retrieval right away.
 - Your GPT can create, read, and update notes and call imported tools.
-    
 
 Examples:
 - Notes: create note at path, lookup notes about concept, list notes in folder
@@ -98,10 +95,8 @@ Examples:
 - Toggle the Obsidian vault switch in Smart Environment settings.
 - Use the Notes GPTs to retrieve notes. Includes deep integration like rendering dataviews.
 	- *Bases rendering coming soon!*
-        
 
 ## FAQs
-
 **Do I have to pay for the Official service to use Smart Connect**  
 No. You can self-host a connection server that links your local Smart Connect with ChatGPT. Only the Official GPTs require the Official service.
 
