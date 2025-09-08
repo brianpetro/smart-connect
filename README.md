@@ -1,4 +1,3 @@
-
 # Smart Connect
 
 <h3 align="center"> Give context to ChatGPT without giving your files to the cloud<br> <small>Smart Connect creates a connection you control between your local computer and ChatGPT</small> </h3> <p align="center"> <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external"> <img src="https://smartconnections.app/assets/Setup-Custom-GPT-Actions-Smart-Connect-new-custom-gpt-2025-09-03.png" alt="Smart Connect app" width="300"/> </a> </p>
