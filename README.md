@@ -23,17 +23,10 @@ When Smart Connect is running and connected then Smart Actions can be used from 
 ### Core Actions
 Core Actions are implemented by the core development team. These actions ship with Smart Connect by default. Core actions are design to be extended by custom & community actions and personalized prompts.
 *These actions have the highest safety rating.*
-### Community Actions (coming soon!)
-Community Actions are easily available and installed from within the Smart Connect community index. These actions must be open-source and pass an approval process for inclusion in the community index.
-*These actions are considered safe.*
-### Custom actions
-Custom Actions enable developers (or anyone that can produce a JavaScript function) to create and test actions.
-See [this sample](https://github.com/brianpetro/Sample-Smart-Action) (more documentation coming soon!)
-*Only use this feature to install your own custom actions.*
 
 ## [Smart Connect - Obsidian GPT](https://chatgpt.com/g/g-9Xb1mRJYl-smart-connect-obsidian)
 ### Signing in
-- requires your `email` and `license key`
+- requires your `email` and `connection key`
 
 ## Creating Custom GPTs
 - [Getting Started with Custom Smart Connect GPTs](https://www.youtube.com/watch?v=WOXGp65qTfM)
