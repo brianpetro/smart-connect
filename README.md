@@ -44,6 +44,18 @@ Smart Connect runs on your computer. It opens a private, inspectable path that G
 - Approve once then chat normally
 - Readable logs for every call
 
+## Technical flow
+
+```mermaid
+graph TD
+    GPT[ChatGPT] -->|Smart Actions| SC[Smart Connect]
+    SC -->|Local APIs| Env[Smart Environment]
+    Env --> Files[Notes & Tools]
+```
+
+Smart Connect bridges GPTs to your local environment. A GPT calls a Smart Action, Smart Connect relays it through local APIs to your files and tools, and the result flows back to chat.
+
+
 ## Do more on day one
 
 - Use an Official GPT to work with notes and files without building a Custom GPT
@@ -52,15 +64,20 @@ Smart Connect runs on your computer. It opens a private, inspectable path that G
 - Keep Obsidian integration first class with a single toggle in settings
     
 
-## MCP server integration
+## Import MCP servers
 
 Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be called as a Smart Action in normal chats.
 
+**Why import MCP servers**
+- Run Gmail, Calendar, Notion or 1000s of other MCP servers directly from ChatGPT.
+- Add once, then call tools with fast responses in ChatGPT without having to use Deep Research or other complicated MCP clients in coding environments.
+- Local logs show exactly what executed.
+
+**How to import an MCP server**
 - Open the MCP servers tab in your environment
 - Pick a transport
 - Enter the start command or URL
 - Toggle the server on to import tools
-    
 
 [Watch the pre-release preview](https://www.loom.com/share/99b8454bcd5e4be4932115fcb903a5ef) from a recent [Community Lean Coffee](https://luma.com/calendar/cal-ZJtdnzAdURyouM7) meeting.
 
