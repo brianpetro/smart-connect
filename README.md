@@ -4,7 +4,13 @@
 
 <p align="center">
   <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/connection-settings-window-landscape.png" alt="Smart Connect Manager Connection settings with Local API key and Security controls visible" width="720"/>
+    <img src="https://smartconnections.app/assets/smart-connect/problem-cant-reach-local-file-bubble-landscape.png" alt="When chats stop at your files" width="720"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+    <img src="https://smartconnections.app/assets/smart-connect/connection-settings-window-landscape.png" alt="Manager Connection settings with Local API key and Security controls visible" width="720"/>
   </a>
 </p>
 
@@ -31,7 +37,7 @@ You want ChatGPT to actually use your files and tools. You value privacy and con
 
 <p>
   <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/folder-chat-toolbox-icons-landscape.png" alt="Three step plan icons: folder, chat, toolbox representing Environment, GPT, MCP" width="720"/>
+    <img src="https://smartconnections.app/assets/smart-connect/folder-chat-toolbox-icons-landscape.png" alt="Three step plan icons: Environment, GPT, MCP" width="720"/>
   </a>
 </p>
 
@@ -43,6 +49,12 @@ Create and start an environment, sign in to enable Official service, auto setup 
 [![Environment settings annotated](https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20settings%20tab%20annotated-2025-09-08.png)](https://smartconnections.app/story/smart-connect-getting-started/)
 
 ## How it works
+
+<p>
+  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+    <img src="https://smartconnections.app/assets/smart-connect/laptop-connection-tab-landscape.png" alt="Smart Connect with logs and security toggles visible" width="720"/>
+  </a>
+</p>
 
 Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs.
 
@@ -63,6 +75,7 @@ graph TD
 Smart Connect bridges GPTs to your local environment. A GPT calls a Smart Action, Smart Connect relays it through local APIs to your files and tools, and the result flows back to chat.
 
 ## Do more on day one
+<p> <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external"> <img src="https://smartconnections.app/assets/smart-connect/official-gpt-open-landscape.png" alt="Official GPT card open" width="720"/> </a> </p>
 
 - Use an Official GPT to work with notes and files without building a Custom GPT
 - Build a Custom GPT from selected actions when you want extra control
@@ -92,6 +105,7 @@ No. You can use Smart Connect without the Official service by hosting your own c
 ![Official service sign in and local key](https://smartconnections.app/assets/annotated/SC%20App%20-%20Manager%20win%20Connection%20settings%20tab%20annotated-2025-09-08.png)
 
 ## Custom GPTs
+<p> <a href="https://smartconnections.app/setup-custom-gpt-actions/" target="_external"> <img src="https://smartconnections.app/assets/smart-connect/create-custom-gpt-sq.png" alt="Create a Custom GPT with auto setup and URL/API key options" width="480"/> </a> </p>
 
 When you want a custom system prompt or your own action set.
 
@@ -103,6 +117,7 @@ When you want a custom system prompt or your own action set.
 ![Custom GPT auto setup](https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20Custom%20GPT%20tabs%20annotated-2025-09-08.png)
 
 ## Import MCP servers
+<p> <a href="https://smartconnections.app/mcp-in-chatgpt" target="_external"> <img src="https://smartconnections.app/assets/smart-connect/import-mcp-servers-detailed-portrait.png" alt="MCP server import with transport and command fields" width="480"/> </a> </p>
 
 Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be called as a Smart Action in normal chats.
 
@@ -122,10 +137,6 @@ Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be
     
 
 [Watch the pre-release preview](https://www.loom.com/share/99b8454bcd5e4be4932115fcb903a5ef) from a recent [Community Lean Coffee](https://luma.com/calendar/cal-ZJtdnzAdURyouM7) meeting.
-
-**What this unlocks**  
-
-Universal chat flows that call tools like browser automation, file utilities, or app connectors, all from GPTs. There is no search or fetch gate inside Smart Connect. You choose which tools are on.
 
 ![MCP server tabs annotated](https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20MCP%20server%20tabs%20annotated-2025-09-07.png)
 
@@ -170,3 +181,5 @@ Yes. You can add modules written or compiled to JavaScript.
 
 - [Full getting started slideshow](https://smartconnections.app/story/smart-connect-getting-started/)
 - [Smart Connect Official Service](https://smartconnections.app/smart-connect/)
+
+<p align="center"> <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external"> <img src="https://smartconnections.app/assets/smart-connect/fastest-path-text-with-official-gpt-open-landscape.png" alt="Fastest path: open an Official GPT and run" width="720"/> </a> </p>
