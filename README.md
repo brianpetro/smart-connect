@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/sb-guide-3-4-angle-logs-security-toggles.png" alt="Smart Connect window hero with Logs and Security controls visible" width="720"/>
+    <img src="https://smartconnections.app/assets/smart-connect/connection-settings-window-landscape.png" alt="Smart Connect Manager Connection settings with Local API key and Security controls visible" width="720"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@ You want ChatGPT to actually use your files and tools. You value privacy and con
 
 <p>
   <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/sb-plan-labeled-environment-gpt-mcp-icons.png" alt="Three step plan icons: Environment, GPT, MCP" width="720"/>
+    <img src="https://smartconnections.app/assets/smart-connect/folder-chat-toolbox-icons-landscape.png" alt="Three step plan icons: folder, chat, toolbox representing Environment, GPT, MCP" width="720"/>
   </a>
 </p>
 
