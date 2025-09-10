@@ -1,0 +1,88 @@
+name: "Bug Report"
+description: "Report a bug with the Smart Connect app."
+title: "[Bug]: <REPLACE THIS WITH SHORT DESCRIPTION>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug Description
+        Thank you for taking the time to report a bug 😊
+        Please fill out the form below as completely as possible to help resolve the issue quickly.
+        *Logs: Please do not "copy & paste" logs. Instead, please screenshot relevant portions of the logs.*
+        To access the logs, click the "Logs" button in the Smart Connect window under Environments. Errors should appear highlighted in red text. Screenshots of these errors are the feastest and most helpful way to resolve issues.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Please provide a clear and concise description of the problem.
+        Tip: Include what you were trying to do and what went wrong.
+      placeholder: "e.g. When I try to use the Smart Connect Official GPT..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: |
+        List the steps to reproduce the issue, if possible.
+        Tip: Number each step for clarity.
+      placeholder: |
+        1. 
+        2. 
+        3. 
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: "e.g. The Official GPT should respond with..."
+    validations:
+      required: false
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: "e.g. The response was empty, or I got an error message..."
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshots
+      description: |
+        Screenshots are often very helpful for debugging issues (console logs, settings, etc.)
+        Put "NA" if not applicable.
+    validations:
+      required: true 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### Environment Information
+        Please provide details about your setup. This helps us reproduce and fix the issue.
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      placeholder: "e.g. Windows 11, macOS 13.4, Ubuntu 22.04"
+    validations:
+      required: false
+  - type: input
+    id: obsidian_usage
+    attributes:
+      label: Obsidian Vault
+      placeholder: "Are you using an Obsidian vault for your Smart Environment? If so, which Smart Plugins are you using?"
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information that might help us better understand the issue.
+    validations:
+      required: false

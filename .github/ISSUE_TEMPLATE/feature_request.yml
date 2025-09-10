@@ -1,0 +1,40 @@
+name: "Feature Request"
+description: "Suggest a feature or enhancement for the Smart Connect app."
+title: "[Feature]: <REPLACE THIS WITH SHORT DESCRIPTION>"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Request
+        Thank you for helping improve the Smart Connect app!
+        Please fill out the form below to describe your feature request.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem would this feature solve? Please be specific.
+    validations:
+      required: true
+  - type: textarea
+    id: desired
+    attributes:
+      label: Desired Solution
+      description: Describe the feature or enhancement you would like to see.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered alternative solutions? If so, please describe them.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information, screenshots, or mockups.
+      placeholder: "Add any other context or screenshots about the feature request here."
+    validations:
+      required: false
