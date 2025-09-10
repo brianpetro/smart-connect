@@ -1,0 +1,41 @@
+name: "Request Help"
+description: "Request help or support for the Smart Connect app."
+title: "[Help]: <REPLACE THIS WITH SHORT DESCRIPTION>"
+labels: ["help"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Help Request
+        Thank you for reaching out for help with the Smart Connect app!
+        Please fill out the form below to describe your issue or question.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem are you experiencing? Please be specific.
+    validations:
+      required: true
+  - type: textarea
+    id: desired
+    attributes:
+      label: Desired Solution
+      description: Describe the help or support you are seeking. 
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What You've Tried
+      description: Have you tried any solutions or workarounds? If so, please describe them.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information, screenshots, or mockups.
+      placeholder: "Add any other context or screenshots about the help request here."
+    validations:
+      required: false
+

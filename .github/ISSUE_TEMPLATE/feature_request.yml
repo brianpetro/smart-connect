@@ -1,7 +1,7 @@
 name: "Feature Request"
 description: "Suggest a feature or enhancement for the Smart Connect app."
 title: "[Feature]: <REPLACE THIS WITH SHORT DESCRIPTION>"
-labels: ["enhancement"]
+labels: ["feature"]
 body:
   - type: markdown
     attributes:
