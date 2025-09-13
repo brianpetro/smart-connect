@@ -2,16 +2,18 @@
 
 <h3 align="center">Give context to ChatGPT without giving your files to the cloud<br><small>Smart Connect creates a connection that you control between your local computer and ChatGPT</small></h3>
 
+<p align="center"><strong>Make ChatGPT use your computer. Connect Gmail, Calendar, Notion, and files over MCP in minutes.</strong></p>
+
 <p align="center">
-  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/problem-cant-reach-local-file-bubble-landscape.png" alt="When chats stop at your files" width="720"/>
-  </a>
+	<a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+		<img src="https://smartconnections.app/assets/smart-connect/problem-cant-reach-local-file-bubble-landscape.png" alt="When chats stop at your files" width="720"/>
+	</a>
 </p>
 
 <p align="center">
-  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/connection-settings-window-landscape.png" alt="Manager Connection settings with Local API key and Security controls visible" width="720"/>
-  </a>
+	<a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+		<img src="https://smartconnections.app/assets/smart-connect/connection-settings-window-landscape.png" alt="Manager Connection settings with Local API key and Security controls visible" width="720"/>
+	</a>
 </p>
 
 Designed for Obsidian users, developers, and anyone who wants ChatGPT to work with local notes, files, and tools without uploading everything to a cloud.
@@ -25,20 +27,20 @@ You want ChatGPT to actually use your files and tools. You value privacy and con
 |---|---|---|---|
 
 <details open>
-  <summary><strong>TLDR</strong> simple 3 step plan</summary>
-  <ul>
-    <li>Install Smart Connect using the links above.</li>
-    <li>Start a Smart Environment and sign in when prompted to enable Official GPTs.</li>
-    <li>Chat in your Official or Custom GPT and call Smart Actions on your machine.</li>
-  </ul>
+	<summary><strong>TLDR</strong> simple 3 step plan</summary>
+	<ul>
+		<li>Install Smart Connect using the links above.</li>
+		<li>Start a Smart Environment and sign in when prompted to enable Official GPTs.</li>
+		<li>Chat in your Official or Custom GPT and call Smart Actions on your machine.</li>
+	</ul>
 </details>
 
 ## Getting started
 
 <p>
-  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/folder-chat-toolbox-icons-landscape.png" alt="Three step plan icons: Environment, GPT, MCP" width="720"/>
-  </a>
+	<a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+		<img src="https://smartconnections.app/assets/smart-connect/folder-chat-toolbox-icons-landscape.png" alt="Three step plan icons: Environment, GPT, MCP" width="720"/>
+	</a>
 </p>
 
 Create and start an environment, sign in to enable Official service, auto setup a Custom GPT or copy the local API key for manual setup, and import MCP servers to bring external tools into GPTs.  
@@ -51,9 +53,9 @@ Create and start an environment, sign in to enable Official service, auto setup 
 ## How it works
 
 <p>
-  <a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
-    <img src="https://smartconnections.app/assets/smart-connect/laptop-connection-tab-landscape.png" alt="Smart Connect with logs and security toggles visible" width="720"/>
-  </a>
+	<a href="https://smartconnections.app/story/smart-connect-getting-started/" target="_external">
+		<img src="https://smartconnections.app/assets/smart-connect/laptop-connection-tab-landscape.png" alt="Smart Connect with logs and security toggles visible" width="720"/>
+	</a>
 </p>
 
 Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs.
@@ -67,9 +69,9 @@ Smart Connect runs on your computer. It opens a private, inspectable path that G
 
 ```mermaid
 graph TD
-    GPT[ChatGPT] -->|Smart Actions| SC[Smart Connect]
-    SC -->|Local APIs| Env[Smart Environment]
-    Env --> Files[Notes & Tools]
+		GPT[ChatGPT] -->|Smart Actions| SC[Smart Connect]
+		SC -->|Local APIs| Env[Smart Environment]
+		Env --> Files[Notes & Tools]
 ```
 
 Smart Connect bridges GPTs to your local environment. A GPT calls a Smart Action, Smart Connect relays it through local APIs to your files and tools, and the result flows back to chat.
@@ -81,7 +83,7 @@ Smart Connect bridges GPTs to your local environment. A GPT calls a Smart Action
 - Build a Custom GPT from selected actions when you want extra control
 - Import MCP servers so tools they expose become Smart Actions callable in ChatGPT
 - Keep Obsidian integration first class with a single toggle in settings
-    
+		
 
 ## Smart Environment
 
@@ -96,7 +98,7 @@ Use the Official service for a no code path that works with your vault and Smart
 - Sign in with your email and connection key in Manager -> Connection
 - Official GPT calls route through the secure service
 - No need to copy a local API key for Official GPTs
-    
+		
 
 **Do I have to pay?**  
 
@@ -126,7 +128,7 @@ Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be
 - Run Gmail, Calendar, Notion or 1000s of other MCP servers directly from ChatGPT.
 - Add once, then call tools with fast responses in ChatGPT without having to use Deep Research or other complicated MCP clients in coding environments.
 - Local logs show exactly what executed.
-    
+		
 
 **How to import an MCP server**
 
@@ -134,7 +136,7 @@ Bring your MCP tools into GPTs in minutes. Any tool an MCP server exposes can be
 - Pick a transport
 - Enter the start command or URL
 - Toggle the server on to import tools
-    
+		
 
 [Watch the pre-release preview](https://www.loom.com/share/99b8454bcd5e4be4932115fcb903a5ef) from a recent [Community Lean Coffee](https://luma.com/calendar/cal-ZJtdnzAdURyouM7) meeting.
 
@@ -147,7 +149,7 @@ Get useful actions even before you import any MCP servers. The app ships with co
 Examples:
 
 - Notes: create note at path, lookup notes about concept, list notes in folder
-    
+		
 
 ![Actions tab annotated](https://smartconnections.app/assets/annotated/SC%20App%20-%20Env%20win%20actions%20tab%20annotated-2025-09-08.png)
 
