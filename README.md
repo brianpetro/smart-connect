@@ -58,11 +58,13 @@ Create and start an environment, sign in to enable Official service, auto setup 
 	</a>
 </p>
 
-Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs.
+Smart Connect runs on your computer. It opens a private, inspectable path that GPTs can use to call Smart Actions. You approve the actions and you can read the logs. [Learn how MCP servers connect](https://smartconnections.app/connect-mcp/).
 
+- First action in under 3 minutes with a log you can read
 - Local first by default
 - No bulk upload of your vault or files
 - Approve once then chat normally
+- Works with any MCP server through the Official service import
 - Readable logs for every call
 
 ## Technical flow
